@@ -1,6 +1,6 @@
 # climatecorner
 
-A new Flutter project.
+New weather app created using flutter.
 
 ## Getting Started
 
