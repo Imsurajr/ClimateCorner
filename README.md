@@ -1,6 +1,6 @@
 # climatecorner
 
-A new Flutter project.
+New weather app created using flutter.
 
 ## Getting Started
 
@@ -14,3 +14,9 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+# demo
+
+
+https://user-images.githubusercontent.com/92632170/216340453-948dbfae-b009-4a96-9270-41cceecd0fd5.mp4
+
